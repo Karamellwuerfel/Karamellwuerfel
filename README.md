@@ -40,3 +40,4 @@
 
 ### 📔 Devcard
 <span style="text-align:left"><img src="https://api.daily.dev/devcards/v2/59nexSK3w3r5dMxNLEmpc.png?r=dg4&type=default" width="275" alt="PD's Dev Card"/></span>
+[![roadmap.sh](https://roadmap.sh/card/wide/672a9c4731d65c235de5d9da?variant=dark&roadmaps=frontend)](https://roadmap.sh)
