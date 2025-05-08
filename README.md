@@ -18,7 +18,7 @@
 **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karamellwuerfel&layout=compact" alt="GitHub top-langs Card" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karamellwuerfel&layout=compact" alt="GitHub top-langs Card" />
 </p>
 
 **<h3 align="left">Support Me</h3>**
