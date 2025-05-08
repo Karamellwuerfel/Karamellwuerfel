@@ -18,15 +18,9 @@
 **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Karamellwuerfel&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karamellwuerfel&layout=compact" alt="GitHub top-langs Card" />
 </p>
-
-
-**<h3 align="left">Roadmap</h3>**
-[![roadmap.sh](https://roadmap.sh/card/wide/672a9c4731d65c235de5d9da?variant=dark&roadmaps=frontend)](https://roadmap.sh)
-<br>
 
 **<h3 align="left">Support Me</h3>**
 
 <p align="left"><a href="https://paypal.me/Karamellwuerfel" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="36" style="margin-right: 4px"></a></p>
-
